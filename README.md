@@ -4,8 +4,6 @@ Yii 2 Traning
 www.itcollege.ir
 ----------------
 
-
-
 1. Routing and Hello World
 2. Basic Configuration
 3. Forms
